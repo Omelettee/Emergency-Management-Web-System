@@ -1,4 +1,4 @@
-# Gudide for Emergency Management Web System
+# Guide for Emergency Management Web System
 
 ##### 1. Create a new account and log in
 ##### 2. Report Emergency with Resouce's Id and GeoLocation
